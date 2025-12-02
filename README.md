@@ -11,19 +11,15 @@ Data Scientist с практическим опытом анализа данн�
 ## 🛠️ Стек технологий
 
 ### Языки программирования:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="30" height="30" /> **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="SQL" width="30" height="30" /> **SQL**
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 #### ML фреймворки:
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="30" height="30" /> **PyTorch**   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="30" height="30" /> **TensorFlow**    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="30" height="30" /> **Keras**   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="30" height="30" style="background-color: #f8f8ff; border-radius: 4px; padding: 3px;"/> **Scikit-learn**  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="CatBoost" width="30" height="30" /> **CatBoost**   <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" alt="XGBoost" width="80" height="30" /> **XGBoost**
-
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-00CDB8?style=flat-square&logo=catboost&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&logo=xgboost&logoColor=white)
 #### Data Science библиотеки:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="70" height="30" style="background-color: #f8f8ff; border-radius: 4px; padding: 3px;"/> **Pandas**   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" alt="NumPy" width="70" height="30" /> **NumPy**   <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="30" height="30" /> **SciPy**   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="30" height="30" /> **Matplotlib**   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="30" height="30" /> **Seaborn**   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/plot_ly_logo_icon_168902.png" alt="Plotly" width="30" height="30" /> **Plotly**
-
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 #### Big Data:
-<img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="PySpark" width="30" height="30" style="background-color: #222222; border-radius: 4px; padding: 3px;" /> **PySpark**
-
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 #### Инструменты:
-<img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Git" width="30" height="30" /> **Git**  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="30" height="30" style="background-color: #f8f8ff; border-radius: 4px; padding: 3px;"/> **Jupyter Notebook**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 ### 🎓 Образование
@@ -39,7 +35,6 @@ Data Scientist с практическим опытом анализа данн�
 - [📋 Таблица со всеми курсами](https://docs.google.com/spreadsheets/d/1fIziZeTsGjRot8MULBzJ-4ffXFzrT5jj/edit?usp=sharing&ouid=114270286365945063019&rtpof=true&sd=true)
 ---
 ### 🧪 Пет-проекты
-
 #### **SmartNotes** (Python, PyTorch, Hugging Face)  
 Локальное desktop-приложение для суммаризации конспектов с использованием языковых моделей.  
 - Задача: обеспечить быстрое суммирование текста на CPU без облачных API.  
@@ -47,10 +42,8 @@ Data Scientist с практическим опытом анализа данн�
 - Результат: время суммаризации до 1000 слов — 7 сек (было >30 сек), BERTScore F1 = 0.85.  
 [🔗 GitHub](https://github.com/egortens1a/SmartNotes)
 
-
 ---
 ### 🏆 Соревнования
-
 - **III разряд по продуктовому программированию**
 - **Финалист** хакатона "Самара Т1-Холдинг 2024" (распознавание рукописного текста)  
 - **2 место** на CodeGym 2.0 Самара 2025 (Python, C++)
