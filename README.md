@@ -1,5 +1,5 @@
 ## Data Scientist
-**Области интересов:** NLP, компьютерное зрение, машинное обучение
+  **Области интересов:** NLP, CV, classic ML
 📞 +7(909) 717-55-71 | 📍 Самара, РФ  
 📧 egorhorobryh@gmail.com | [Telegram](https://t.me/ac3err)
 ## О себе
