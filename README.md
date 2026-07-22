@@ -2,7 +2,7 @@
 **Области интересов:** NLP, CV, classic ML
  
 📞 +7(909) 717-55-71 | 📍 Самара, РФ  
-📧 egorhorobryh@gmail.com | [Telegram](https://t.me/ac3err)
+📧 egorhorobryh@gmail.com | [Telegram](https://t.me/ac3err) | [Resume](https://drive.google.com/file/d/1mOCW_VGyqV9aPXJvoPp6NaGlZgK8jloj/view)
 ## О себе
 Data Scientist с практическим опытом анализа данных и построения ML-пайплайнов от идеи до внедрения. Ищу команду, где смогу применять свои навыки для решения сложных задач и вносить вклад в развитие продукта. Ценю слаженную командную работу и отлаженные процессы.
 
