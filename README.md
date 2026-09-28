@@ -24,26 +24,26 @@
 
 ## Проекты
 
-### [SmartNotes](https://github.com/egortens1a/SmartNotes)
+### [SmartNotes](https://github.com/egortens1a/SmartNotes) `NLP, Optimization`
 Десктопное приложение для локальной суммаризации текстов без внешних API.
 
 * **Оптимизация:** Дообучение `multilingual T5-small` и квантизация модели для ускорения работы на CPU.
-* **Результаты:** Ускорение обработки текста до 1000 слов с >30с до 7с (BERTScore F1 = 0.85). ПО закомпоновано в десктопный интерфейс.
+* **Результаты:** Ускорение обработки текста до 1000 слов с >30с до 7с (BERTScore F1 = 0.85).
 
-### [tsprep](https://github.com/egortens1a/tsprep)
+### [tsprep](https://github.com/egortens1a/tsprep) - `Time Series / Applied ML`
 Исследование нейросетевых методов предобработки, сжатия и анализа экономических временных рядов.
 
 * **Алгоритмы:** Сравнительный анализ классических моделей и DL-архитектур (TCN, LSTM, Transformer, VAE), включая гибридный подход `TCN + Self-Attention`.
 * **Генерация данных:** Разработан модуль симуляции сложных временных рядов (стохастический тренд, многомасштабная сезонность, GARCH-волатильность, сдвиги режимов).
 * **Метрики и валидация:** Построена методология оценки через Downstream Linear Probe (прогнозирование), Silhouette-скор латентных режимов, F1 поиска аномалий и метрики реконструкции (MSE, MAE, R²).
 
-### [Fire Segmentation](https://github.com/egortens1a/fire-segmentation)
+### [Fire Segmentation](https://github.com/egortens1a/fire-segmentation) - `Computer Vision, Image Segmentation`
 Cегментации языков пламени на изображениях.
 
 * **Модели:** Обучение и сравнение сверточных архитектур разной сложности (U-Net, DeepLabV3+, U-Net++) с бэкбонами ResNet и EfficientNet.
 * **Архитектура скрипта:** Разработан CLI-инструмент с конфигурацией через YAML, обработкой произвольных разрешений, выгрузкой бинарных/вероятностных масок и наложением оверлеев.
 
-### [Berserk AI](https://github.com/KlimentiiFrolov/Berserk_ai) *(в разработке)* - *RAG / Information Retrieval / LLM*
+### [Berserk AI](https://github.com/KlimentiiFrolov/Berserk_ai) *(в разработке)* - `RAG / Information Retrieval / LLM`
 RAG-модуль для интерактивного бота-консультанта по ККИ "Берсерк" (правила, базы карт, FAQ и комьюнити-материалы).
 * **Hybrid Retrieval & Reranking:** Проектирование комбинированного поиска (Dense + Sparse/BM25) в Qdrant для точной обработки доменных терминов и названий. Использование RRF-Fusion и Cross-Encoder реранкинга для отбора top-K контекстов.
 
