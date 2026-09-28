@@ -1,44 +1,70 @@
-## Data Scientist
-**Области интересов:** NLP, компьютерное зрение, машинное обучение
-📞 +7(909) 717-55-71 | 📍 Самара, РФ  
-📧 egorhorobryh@gmail.com | [Telegram](https://t.me/ac3err)
+# Егор Хоробых
+
+**Data Scientist / ML Engineer** | Самара, РФ  
+📞 +7 (909) 717-55-71 | 📧 egorhorobryh@gmail.com  
+[Telegram](https://t.me/ac3err) | [Резюме](https://drive.google.com/file/d/1mOCW_VGyqV9aPXJvoPp6NaGlZgK8jloj/view)
+
+---
+
 ## О себе
-Data Scientist с практическим опытом анализа данных и построения ML-пайплайнов от идеи до внедрения. Ищу команду, где смогу применять свои навыки для решения сложных задач и вносить вклад в развитие продукта. Ценю слаженную командную работу и отлаженные процессы.
+Занимаюсь анализом данных, прикладным машинным обучением и проектированием ML-пайплайнов. Имею опыт работы с классическими алгоритмами и нейросетевыми архитектурами (Time Series, CV, NLP). 
+
+Умею проходить полный цикл разработки: от сбора данных и кастомной валидации до написания чистого кода, оптимизации алгоритмов и сборки готовых CLI/Desktop приложений.
 
 ---
-## 🛠️ Стек технологий
 
-### Языки программирования:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-### ML фреймворки:
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-00CDB8?style=flat-square&logo=catboost&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&logo=xgboost&logoColor=white)
-### Data Science библиотеки:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-### Big Data:
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-### Инструменты:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+## Стек технологий
+
+* **Языки:** Python, SQL, C++
+* **ML & DL:** PyTorch, Scikit-learn, CatBoost, XGBoost, Hugging Face, TensorFlow
+* **Обработка данных & Аналитика:** Pandas, NumPy, SciPy, PySpark, Matplotlib, Seaborn, Plotly
+* **Инженерия & Инструменты:** Git, Linux, PyYAML, Albumentations, OpenCV, Jupyter
 
 ---
-## 🎓 Образование
-**Самарский национальный исследовательский университет им. академика С.П. Королева**  
-*Прикладная математика и информатика (бакалавриат)*  (2022 -- 2027)
-## Повышение квалификации:
-- ИИ и машинное обучение | Цифровая кафедра Самарского университета (2024 - 2025)
-- Deep Learning (семестры 1-2, CV и NLP соответственно) | ФПМИ МФТИ (2024 - 2025)
-- ML-тренировки (сезоны 2-4) | Яндекс (2024-2025)
-- Базовый курс по анализу данных | T-Bанк (2025)
-- [📋 Таблица со всеми курсами](https://docs.google.com/spreadsheets/d/1fIziZeTsGjRot8MULBzJ-4ffXFzrT5jj/edit?usp=sharing&ouid=114270286365945063019&rtpof=true&sd=true)
+
+## Проекты
+
+### [SmartNotes](https://github.com/egortens1a/SmartNotes)
+Десктопное приложение для локальной суммаризации текстов без внешних API.
+
+* **Оптимизация:** Дообучение `multilingual T5-small` и квантизация модели для ускорения работы на CPU.
+* **Результаты:** Ускорение обработки текста до 1000 слов с >30с до 7с (BERTScore F1 = 0.85). ПО закомпоновано в десктопный интерфейс.
+
 ---
-## 🧪 Пет-проекты
-#### **SmartNotes** (Python, PyTorch, Hugging Face)  
-Локальное desktop-приложение для суммаризации конспектов с использованием языковых моделей.  
-- Задача: обеспечить быстрое суммирование текста на CPU без облачных API.  
-- Решение: дообучение multilingual T5-small, оптимизация пайплайна через квантизацию.  
-- Результат: время суммаризации до 1000 слов — 7 сек (было >30 сек), BERTScore F1 = 0.85.  
-[🔗 GitHub](https://github.com/egortens1a/SmartNotes)
+
+### [tsprep](https://github.com/egortens1a/tsprep)
+Фреймворк для предобработки, сжатия и анализа экономических временных рядов.
+
+* **Алгоритмы:** Сравнительный анализ классических моделей и DL-архитектур (TCN, LSTM, Transformer, VAE), включая гибридный подход `TCN + Self-Attention`.
+* **Генерация данных:** Разработан модуль симуляции сложных временных рядов (стохастический тренд, многомасштабная сезонность, GARCH-волатильность, сдвиги режимов).
+* **Метрики и валидация:** Построена методология оценки через Downstream Linear Probe (прогнозирование), Silhouette-скор латентных режимов, F1 поиска аномалий и метрики реконструкции (MSE, MAE, R²).
+
 ---
-### 🏆 Соревнования
-- **III разряд по продуктовому программированию**
-- **Финалист** хакатона "Самара Т1-Холдинг 2024" (распознавание рукописного текста)  
-- **2 место** на CodeGym 2.0 Самара 2025 (Python, C++)
+
+### [Fire Segmentation](https://github.com/egortens1a/fire-segmentation)
+Инструмент для сегментации областей возгорания с гибкой настройкой инференса.
+
+* **Модели:** Обучение и сравнение сверточных архитектур разной сложности (U-Net, DeepLabV3+, U-Net++) с бэкбонами ResNet и EfficientNet.
+* **Архитектура скрипта:** Разработан CLI-инструмент с конфигурацией через YAML, обработкой произвольных разрешений, выгрузкой бинарных/вероятностных масок и наложением оверлеев.
+
+---
+
+## Образование
+
+**Самарский университет** (2022 -- 2027)  
+*Прикладная математика и информатика (бакалавриат)*
+
+### Дополнительные программы и курсы:
+* **ML-тренировки** (Сезоны 2-4) | Яндекс (2024 -- 2025)
+* **Базовый курс по анализу данных** | Т-Банк (2025)
+* **Deep Learning** (CV & NLP) | ФПМИ МФТИ (2024 -- 2025)
+* **ИИ и машинное обучение** | Цифровая кафедра Самарского университета (2024 -- 2025)
+* [Таблица с пройденными курсами](https://docs.google.com/spreadsheets/d/1fIziZeTsGjRot8MULBzJ-4ffXFzrT5jj/edit?usp=sharing&ouid=114270286365945063019&rtpof=true&sd=true)
+
+---
+
+## Соревнования и достижения
+
+* **2 место** на CodeGym 2.0 Самара 2025 (Python, C++)
+* **Финалист** хакатона «Самара Т1-Холдинг 2024» (OCR / Распознавание рукописного текста)
+* **III разряд по спортивному программированию** (Продуктовое программирование)
