@@ -15,13 +15,13 @@ ML engineer с 7 месяцами коммерческого опыта в ко�
 ## Навыки
 
 - **Языки:** Python, SQL, C++ (базовый)
-- **Deep Learning:** PyTorch, Hugging Face Transformers, TensorFlow
+- **Deep Learning:** PyTorch, Hugging Face Transformers
 - **Computer Vision:** OpenCV, YOLO, Albumentations, сегментация (U-Net, U-Net++, DeepLabV3+), OCR (PyTesseract)
 - **NLP / LLM:** fine-tuning T5, квантизация, суммаризация, RAG, hybrid retrieval (BM25 + Dense), reranking
 - **Classic ML:** scikit-learn, XGBoost, CatBoost, LightGBM, кросс-валидация, feature engineering
 - **Time Series:** TCN, LSTM, Transformer, VAE, GARCH-симуляции
-- **Data:** pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, PySpark
-- **Инструменты:** Git, Linux, Jupyter, PyYAML, Qdrant, Docker
+- **Data:** pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly
+- **Инструменты:** Git, Linux, Jupyter, Qdrant, Docker
 
 
 ## Опыт работы
